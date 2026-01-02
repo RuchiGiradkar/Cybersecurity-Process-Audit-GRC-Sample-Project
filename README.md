@@ -52,4 +52,23 @@ This is an evidence-led portfolio audit for a fictional organization and intenti
 
 ---
 
-## Delivera
+## Deliverables
+- **Problem Statement:** `Problem_Statement.pdf`
+- **Final Cybersecurity Process Audit Report:** `Final_Audit_Report.pdf`
+
+---
+
+## Skills Demonstrated
+- Cybersecurity Governance, Risk, and Compliance (GRC)
+- Cybersecurity process auditing and assurance
+- Risk-based audit methodology
+- Control design and operating effectiveness assessment
+- Evidence-based audit testing and documentation
+- Risk identification, scoring, and prioritization
+- Root cause analysis and corrective action planning
+- Executive-level audit reporting and communication
+
+---
+
+## Professional Note
+This repository is a portfolio sample created for demonstration purposes using a fictional organization scenario. No real organization data is included. The audit is evidence-led and avoids fabricated operational metrics; conclusions are based solely on the completeness and quality of available artefacts, consistent with professional cybersecurity audit practices.
